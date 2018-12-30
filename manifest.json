@@ -5,7 +5,7 @@
   "background_color": "#ffffff",
   "display": "fullscreen",
   "orientation": "portrait",
-  "start_url": "/",
+  "start_url": "/yotako-netflix/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
